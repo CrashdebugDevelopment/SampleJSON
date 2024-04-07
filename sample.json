@@ -1,0 +1,7 @@
+// Example JSON data representing a person
+{
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "email": "johndoe@example.com"
+}
