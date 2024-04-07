@@ -1,7 +1,7 @@
-// Example JSON data representing a person
+// Example JSON data representing a person for fetching.
 {
-  "name": "John Doe",
+  "name": "John Miller",
   "age": 30,
-  "city": "New York",
-  "email": "johndoe@example.com"
+  "city": "California",
+  "email": "johnmiller@example.com"
 }
